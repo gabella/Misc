@@ -1,6 +1,6 @@
 File with an input file close to the example from Mikkola and Merritt, 
 "Implementating Few-Body Algorithmic Regularization with Post-Newtonian Terms," Astron. Jour. 135 (June 2008) 2398-2405.
-Especially the three-body example below Eqn.~(72), SMBH + IMBH + star, see Figs.~(3) and (4).
+Especially the three-body example below Eqn. (72), SMBH + IMBH + star, see Figs. (3) and (4).
 
 My input file, test3bodiesC.in, 
 
